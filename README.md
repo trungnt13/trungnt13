@@ -1,11 +1,11 @@
 ### Hello World 👋
 
-I'm a machine learning engineer and researcher specialized in probabilistic deep learning. I work with both images and speech but also capable of doing natural language processing.
+I'm a machine learning engineer and researcher specialized in probabilistic deep learning. I work with both images and speech but am also capable of doing natural language processing.
 I'm based in :finland: 🇻🇳 and working at the University of Eastern Finland.
 
 In my quasi-free time, I write open-sourced deep learning framework in both Tensorflow and Pytorch. 
 
-Occasionlly, I completely free my mind and my hands by climbing the mountains :mount_fuji:, and I am an avid reader of mountaineering and science history.
+Occasionally, I completely free my mind and hands by climbing the mountains :mount_fuji:, and I am an avid reader of mountaineering and science history.
 
 :sunglasses: Notable works:
 
@@ -17,6 +17,5 @@ Occasionlly, I completely free my mind and my hands by climbing the mountains :m
 - [Coconerd](https://github.com/trungnt13/Code-counts): code count for nerd
 - [Stylit](https://github.com/trungnt13/neural-style-transfer): all in one neural style transfer
 
-📫 Contact me at
-![Email](https://github.com/trungnt13/trungnt13/blob/main/tmp3.png)
-
+📫 Contact me at <img src="https://github.com/trungnt13/trungnt13/blob/main/tmp3.png" width="240">
+<!-- ![Email](https://github.com/trungnt13/trungnt13/blob/main/tmp3.png | width=100) -->
