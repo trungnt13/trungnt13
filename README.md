@@ -10,9 +10,10 @@ Occasionally, I completely free my mind and hands by climbing the mountains :mou
 :sunglasses: Notable works:
 
 - [ODIN](https://github.com/trungnt13/odin-ai): 28 different implementation of variational autoencoder and disentangled representation learning.
-- [SISUA](https://github.com/trungnt13/sisua): Semi-supervised single-cell modelling
+- [SISUA](https://github.com/trungnt13/sisua): semi-supervised single-cell modelling.
+- [bigarray](https://github.com/trungnt13/bigarray): transparent memory-mapped array for multiprocessing (535 times faster than HDF5 data).
 
-⚡ Fun project:
+⚡ Fun projects:
 
 - [Coconerd](https://github.com/trungnt13/Code-counts): code count for nerd
 - [Stylit](https://github.com/trungnt13/neural-style-transfer): all in one neural style transfer
