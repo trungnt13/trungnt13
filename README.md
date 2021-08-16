@@ -5,7 +5,7 @@ I'm based in :finland: 🇻🇳 and working at the University of Eastern Finland
 
 In my quasi-free time, I write open-sourced deep learning framework in both **Tensorflow and Pytorch**. 
 
-Occasionally, I completely free my mind and hands by climbing the mountains :mount_fuji:, and I am an avid reader of mountaineering and science history.
+Occasionally, I free my mind by climbing the mountains :mount_fuji:, and I am also an avid reader of mountaineering and science history.
 
 :sunglasses: Notable works:
 
