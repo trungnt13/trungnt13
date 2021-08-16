@@ -20,4 +20,5 @@ Occasionally, I free my mind by climbing the mountains :mount_fuji:, and I am al
 - [Brick racing](https://play.google.com/store/apps/details?id=com.trunganh.superbrickracing): Android version of the classic brick racing game <img src="https://github.com/trungnt13/trungnt13/blob/main/brick_racing.png" width="18">
 
 📫 Contact me at <img src="https://github.com/trungnt13/trungnt13/blob/main/tmp3.png" width="240">
+or via [Linkedin](https://www.linkedin.com/in/trungnt13/)
 <!-- ![Email](https://github.com/trungnt13/trungnt13/blob/main/tmp3.png | width=100) -->
