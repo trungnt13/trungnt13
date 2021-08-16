@@ -17,7 +17,7 @@ Occasionally, I completely free my mind and hands by climbing the mountains :mou
 
 - [Coconerd](https://github.com/trungnt13/Code-counts): code count for nerd.
 - [Stylit](https://github.com/trungnt13/neural-style-transfer): all in one neural style transfer.
-- [Brick racing](https://play.google.com/store/apps/details?id=com.trunganh.superbrickracing): Android game of the classic brick racing <img src="https://github.com/trungnt13/trungnt13/blob/main/brick_racing.png" width="18">
+- [Brick racing](https://play.google.com/store/apps/details?id=com.trunganh.superbrickracing): Android version of the classic brick racing game <img src="https://github.com/trungnt13/trungnt13/blob/main/brick_racing.png" width="18">
 
 📫 Contact me at <img src="https://github.com/trungnt13/trungnt13/blob/main/tmp3.png" width="240">
 <!-- ![Email](https://github.com/trungnt13/trungnt13/blob/main/tmp3.png | width=100) -->
