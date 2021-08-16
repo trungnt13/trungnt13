@@ -1,11 +1,11 @@
 ### Hello World 👋
 
-I'm machine learning engineer specialized in probabilistic deep learning. I work with both images and speech but also capable of doing natural language processing.
-I'm based in Finland and working for University of Eastern Finland.
+I'm a machine learning engineer and researcher specialized in probabilistic deep learning. I work with both images and speech but also capable of doing natural language processing.
+I'm based in :finland: 🇻🇳 and working at the University of Eastern Finland.
 
 In my quasi-free time, I write open-sourced deep learning framework in both Tensorflow and Pytorch. 
 
-Occasionlly, I completely free my mind and my hand by climbing the mountains  :mount_fuji:, and I am an avid reader of mountaineering and science history.
+Occasionlly, I completely free my mind and my hands by climbing the mountains :mount_fuji:, and I am an avid reader of mountaineering and science history.
 
 :sunglasses: Notable works:
 
