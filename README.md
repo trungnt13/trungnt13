@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm a machine learning engineer and researcher specialized in **probabilistic deep learning**. I work with both images and speech but am also capable of doing natural language processing.
+I'm a machine learning engineer and researcher specialized in **probabilistic deep learning**. I work with both **images** and **speech** but am also capable of doing **natural language processing**.
 I'm based in :finland: 🇻🇳 and working at the University of Eastern Finland.
 
 In my quasi-free time, I write open-sourced deep learning framework in both **Tensorflow and Pytorch**. 
