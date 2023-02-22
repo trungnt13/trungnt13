@@ -9,6 +9,7 @@ Occasionally, I free my mind by climbing the mountains :mount_fuji:, and I am al
 
 :sunglasses: Notable works:
 
+- [Covid-Cough-Detection](https://github.com/trungnt13/Covid-Cough-Detection): using transformer and self-supervised learning for detecting covid from recorded cough audio file. 
 - [ODIN](https://github.com/trungnt13/odin-ai): 28 different implementation of variational autoencoder and disentangled representation learning.
 - [SISUA](https://github.com/trungnt13/sisua): semi-supervised single-cell modelling.
 - [bigarray](https://github.com/trungnt13/bigarray): transparent memory-mapped array for multiprocessing (535 times faster than HDF5 data).
