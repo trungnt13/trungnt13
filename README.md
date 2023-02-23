@@ -27,8 +27,10 @@ As a highly motivated and curious individual, I approach my work with unwavering
 :bulb: Teaching:
 
 - UEF summer schools: [2016](https://github.com/trungnt13/uef-summerschool2016), [2017](https://github.com/trungnt13/uef-summerschool2017) and [2018](https://github.com/trungnt13/uef-seqworkshop2018)
-- UEF workshops: [speech processing](https://github.com/trungnt13/uef-speechworkshop2017) and [sequence learning](https://github.com/trungnt13/uef-seqworkshop2018)
+- UEF workshops: [speech processing (2017)](https://github.com/trungnt13/uef-speechworkshop2017) and [sequence learning (2018)](https://github.com/trungnt13/uef-seqworkshop2018)
 - [Bayesian inference 2017](https://github.com/trungnt13/BAY2-uef17): using PyMC and Edward
+- [Python for Computational Intelligence (2017)](https://drive.google.com/drive/folders/1owFx4cLxXv_FTOlgBQ2t-emsG_04a-Uf?usp=sharing): collection of Colab notebook 
+- [Deep learning course (2019)](https://drive.google.com/drive/folders/17SDBkIue6QTlhiBKiuQ25zZTiHewL6g-?usp=sharing): 7 homeworks and 3 mini-projects, if you are motivated to solve the problems, please contact me via email.
 
 
 📫 Contact me at <img src="https://github.com/trungnt13/trungnt13/blob/main/tmp3.png" width="240">
