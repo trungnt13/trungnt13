@@ -7,6 +7,8 @@ In my quasi-free time, I write open-sourced deep learning framework in both **Te
 
 Occasionally, I free my mind by climbing the mountains :mount_fuji:, and I am also an avid reader of mountaineering and science history.
 
+As a highly motivated and curious individual, I approach my work with unwavering responsibility and integrity.
+
 :sunglasses: Notable works:
 
 - [Covid-Cough-Detection](https://github.com/trungnt13/Covid-Cough-Detection): using transformer and self-supervised learning for detecting covid from recorded cough audio file. 
