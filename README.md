@@ -6,11 +6,9 @@ I'm based in :finland: 🇻🇳 and working as a Senior Machine Learning Enginee
 
 In my quasi-free time, I write open-sourced deep learning framework in both **Tensorflow and Pytorch**. 
 
-Occasionally, I free my mind by climbing the mountains :mount_fuji:, and I am also an avid reader of mountaineering and science history.
-
 As a highly motivated and curious individual, I approach my work with unwavering responsibility and integrity.
 
-:sunglasses: **Notable works**:
+:dart: **Notable works**:
 
 - [Covid-Cough-Detection](https://github.com/trungnt13/Covid-Cough-Detection): using transformer and self-supervised learning for detecting covid from recorded cough audio file. 
 - [ODIN](https://github.com/trungnt13/odin-ai): 28 different implementation of variational autoencoder and disentangled representation learning.
@@ -32,6 +30,11 @@ As a highly motivated and curious individual, I approach my work with unwavering
 - [Python for Computational Intelligence (2017)](https://drive.google.com/drive/folders/1owFx4cLxXv_FTOlgBQ2t-emsG_04a-Uf?usp=sharing): collection of Colab notebooks
 - [Deep learning course (2019)](https://drive.google.com/drive/folders/17SDBkIue6QTlhiBKiuQ25zZTiHewL6g-?usp=sharing): 7 homeworks and 3 mini-projects, if you are motivated to solve the problems, please contact me via email.
 
+:sunglasses: Hobbies:
+
+- Climbing :mount_fuji:
+- I am also an avid reader of mountaineering and science history.
+- I also using ML for algorithmic trading and quant (just for fun).
 
 📫 Contact me at <img src="https://github.com/trungnt13/trungnt13/blob/main/tmp3.png" width="240">
 or via [Linkedin](https://www.linkedin.com/in/trungnt13/)
