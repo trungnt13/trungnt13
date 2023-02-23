@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm a machine learning engineer and researcher specialized in **probabilistic deep learning**. I work with **images**, **speech** and **text** data, but also have experience with bioinformatics data.
+I'm a machine learning engineer and researcher specialized in **probabilistic deep learning** and **digital signal processing**. I work with **images**, **speech** and **text** data, but also have experience with bioinformatics data.
 I'm based in :finland: 🇻🇳 and working as a Senior Machine Learning Engineer.
 
 In my quasi-free time, I write open-sourced deep learning framework in both **Tensorflow and Pytorch**. 
