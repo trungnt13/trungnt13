@@ -18,7 +18,7 @@ Occasionally, I free my mind by climbing the mountains :mount_fuji:, and I am al
 
 - [Coconerd](https://github.com/trungnt13/Code-counts): code count for nerd.
 - [Neural style wedding card](https://github.com/trungnt13/neural-style-transfer): I used neural style transfer to create design for my wedding card <img src="https://raw.githubusercontent.com/trungnt13/neural-style-transfer/main/outputs/Style3_5.jpg" width="64">
-- [Brick racing](https://play.google.com/store/apps/details?id=com.trunganh.superbrickracing): Android version of the classic brick racing game <img src="https://github.com/trungnt13/trungnt13/blob/main/brick_racing.png" width="18">
+- [Brick racing](https://play.google.com/store/apps/details?id=com.trunganh.superbrickracing): Android version of the classic brick racing game <img src="https://github.com/trungnt13/trungnt13/blob/main/brick_racing.png" width="32">
 
 📫 Contact me at <img src="https://github.com/trungnt13/trungnt13/blob/main/tmp3.png" width="240">
 or via [Linkedin](https://www.linkedin.com/in/trungnt13/)
