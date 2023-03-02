@@ -17,9 +17,7 @@ As a highly motivated and curious individual, I approach my work with unwavering
 
 ⚡ **Fun projects**:
 
-- [Neural style wedding card](https://github.com/trungnt13/neural-style-transfer): I used neural style transfer to create design for my wedding card <br> <img src="https://raw.githubusercontent.com/trungnt13/neural-wedding-card/main/inputs/trungnguyen.jpg" width="80"> +
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" width="60">
- = <img src="https://raw.githubusercontent.com/trungnt13/neural-wedding-card/main/result_wedding_card.png" width="60">
+- [Neural style wedding card](https://github.com/trungnt13/neural-style-transfer): I used neural style transfer to create design for my wedding card <br> <img src="https://raw.githubusercontent.com/trungnt13/neural-wedding-card/main/inputs/trungnguyen.jpg" width="60"> + <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" width="60"> = <img src="https://raw.githubusercontent.com/trungnt13/neural-wedding-card/main/result_wedding_card.png" width="60">
 - [Brick racing](https://play.google.com/store/apps/details?id=com.trunganh.superbrickracing): Android version of the classic brick racing game <br> <img src="https://github.com/trungnt13/trungnt13/blob/main/brick_racing.png" width="64">
 - [Coconerd](https://github.com/trungnt13/Code-counts): code count for nerd.
 - [VSCode Autoflake](https://github.com/trungnt13/vscode-autoflake): extension for removing unused imports and unused variables from Python code.
