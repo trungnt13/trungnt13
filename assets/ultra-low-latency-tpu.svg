@@ -426,7 +426,7 @@
 <text x="1091" y="352" fill="#c299a4" font-size="12" text-anchor="middle" class="mono">E8M0 + payload</text>
 <text x="73" y="372" fill="#74b3a0" font-size="10" text-anchor="start" class="mono">SHARED EXPONENT</text>
 <text x="73" y="388" fill="#619a89" font-size="9" text-anchor="start" class="mono">E8M0 / 32 ELEMENTS</text>
-<text x="1170" y="439" fill="#687f95" font-size="10" text-anchor="end" class="small">PERSONAL CO-DESIGN STUDY · SCHEMATIC TIMING</text>
+<text x="1170" y="439" fill="#687f95" font-size="10" text-anchor="end" class="small">ULTRA LOW LATENCY TPU · SCHEMATIC TIMING</text>
 <circle cx="31.00" cy="435.00" r="3" fill="#34495c"/>
 <text x="41" y="439" fill="#617b91" font-size="10" text-anchor="start" class="mono">LOAD WEIGHTS</text>
 <circle cx="166.00" cy="435.00" r="3" fill="#34495c"/>

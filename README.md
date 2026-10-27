@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="assets/profile-banner-mxfp.gif" alt="Trung Ng: AI with custom harnesses for compiler development and high-performance scheduling; MXFP shared group exponents; real-time, low-latency inference." width="100%" />
+  <img src="assets/ultra-low-latency-tpu.gif" alt="Trung Ng: AI with custom harnesses for compiler development and high-performance scheduling; MXFP shared group exponents; real-time, low-latency inference." width="100%" />
 </p>
-<p align="right"><sub><a href="assets/profile-banner-mxfp.svg">Static view</a></sub></p>
+<p align="right"><sub><a href="assets/ultra-low-latency-tpu.svg">Static view</a></sub></p>
 
 ### Tech Lead · 6G AI ASIC · Hardware-software co-design
 
