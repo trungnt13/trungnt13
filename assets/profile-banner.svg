@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title description">
+  <title id="title">Trung Ng: AI, from models to silicon.</title>
+  <desc id="description">A gently animated circuit connects machine learning, hardware-software co-design, and agent tooling.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#101b30"/>
+      <stop offset="1" stop-color="#192e43"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#9fb8cf" stroke-opacity=".07"/>
+    </pattern>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+      .signal { animation: flow 8s linear infinite; }
+      .signal.delayed { animation-delay: -4s; }
+      .orbit { transform-origin: 840px 100px; animation: turn 40s linear infinite; }
+      @keyframes flow { from { stroke-dashoffset: 520; } to { stroke-dashoffset: 0; } }
+      @keyframes turn { to { transform: rotate(360deg); } }
+      @media (prefers-reduced-motion: reduce) { .signal, .orbit { animation: none; } }
+    </style>
+  </defs>
+  <rect width="960" height="320" rx="20" fill="url(#background)"/>
+  <rect width="960" height="320" rx="20" fill="url(#grid)"/>
+  <g fill="none" stroke="#68899e" stroke-opacity=".3">
+    <circle cx="840" cy="100" r="64"/>
+    <circle cx="840" cy="100" r="88" stroke-dasharray="2 12"/>
+    <g class="orbit" stroke="#69dec1" stroke-opacity=".7">
+      <path d="M776 100a64 64 0 0 1 64-64" stroke-width="2"/>
+      <circle cx="840" cy="36" r="4" fill="#69dec1"/>
+    </g>
+    <rect x="816" y="76" width="48" height="48" rx="8" stroke="#9fb8cf"/>
+    <path d="M828 66v10m12-10v10m12-10v10m-24 48v10m12-10v10m12-10v10m-46-46h10m-10 12h10m-10 12h10m48-24h10m-10 12h10m-10 12h10"/>
+  </g>
+  <text x="48" y="60" fill="#69dec1" font-size="16" font-weight="600" letter-spacing="4">TRUNG NG</text>
+  <text x="48" y="120" fill="#f3f7fc" font-size="44" font-weight="700" letter-spacing="-1">AI, from models to silicon.</text>
+  <text x="48" y="158" fill="#b7c9db" font-size="20">Research depth. Systems thinking. Practical tools.</text>
+  <g fill="none" stroke-width="2">
+    <path d="M84 235H876" stroke="#3d586c"/>
+    <path class="signal" d="M84 235H876" stroke="#69dec1" stroke-dasharray="24 496"/>
+    <path class="signal delayed" d="M84 235H876" stroke="#b2a7ef" stroke-dasharray="24 496"/>
+  </g>
+  <g font-size="15" font-weight="600" text-anchor="middle" letter-spacing="1">
+    <rect x="48" y="212" width="230" height="46" rx="10" fill="#142c3c" stroke="#476d75"/>
+    <text x="163" y="241" fill="#91ecd4">6G AI ASIC</text>
+    <rect x="344" y="212" width="272" height="46" rx="10" fill="#242b46" stroke="#68628f"/>
+    <text x="480" y="241" fill="#d2c9ff">HW / SW CO-DESIGN</text>
+    <rect x="682" y="212" width="230" height="46" rx="10" fill="#302e33" stroke="#826a57"/>
+    <text x="797" y="241" fill="#f1c5a3">AGENT TOOLING</text>
+  </g>
+  <text x="48" y="294" fill="#a3b9cc" font-size="14" letter-spacing="2">MACHINE LEARNING / AI SYSTEMS / OPEN SOURCE</text>
+</svg>
