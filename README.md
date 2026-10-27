@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Trung Ng: AI, from models to silicon. 6G AI ASIC, hardware-software co-design, and agent tooling." width="100%" />
+  <img src="assets/profile-banner.gif" alt="Trung Ng: animated AI ASIC datapath. Activations and weights feed a systolic MAC array, INT32 accumulators, a quantizer, and INT8 output." width="100%" />
 </p>
+<p align="right"><sub><a href="assets/profile-banner.svg">Static view</a></sub></p>
 
 ### Tech Lead · 6G AI ASIC · Hardware-software co-design
 
