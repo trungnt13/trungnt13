@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="assets/profile-banner.gif" alt="Trung Ng: animated AI ASIC datapath. Activations and weights feed a systolic MAC array, INT32 accumulators, a quantizer, and INT8 output." width="100%" />
+  <img src="assets/profile-banner.gif" alt="Trung Ng: AI with custom harnesses for compiler development and high-performance scheduling; MXFP shared group exponents; real-time, low-latency inference." width="100%" />
 </p>
 <p align="right"><sub><a href="assets/profile-banner.svg">Static view</a></sub></p>
 
 ### Tech Lead · 6G AI ASIC · Hardware-software co-design
 
 I work at the intersection of **machine learning, AI accelerators, and software systems**. My background is in probabilistic deep learning and digital signal processing, with research across speech, images, text, and single-cell biology.
+
+I use **AI with custom harnesses** for **compiler development and high-performance scheduling**, with a focus on **MXFP shared group exponents** and **real-time, low-latency inference**.
 
 Alongside my 6G AI ASIC work, I build open-source tools for **AI-assisted engineering**: coding-agent integrations, developer workflows, and model inspection tools. I care about clear interfaces, measured performance, and understanding what actually works.
 
